@@ -1,253 +1,1493 @@
 {
-  "general": {
-    "name": "CF Haven - Near IT Park, Ayala, SM",
-    "stars": 0
+  "searchStatus": {
+    "completionPercentage": 88,
+    "status": "PENDING",
+    "searchId": "ab64abbd641c86c7358a50934ad7d2b4",
+    "firstPageStatus": "PENDING"
   },
-  "goodToKnow": {
-    "title": "Good to know",
-    "checkinTime": {
-      "title": "Check in from",
-      "time": "14:00"
+  "resultsSummary": "CF Haven - Near IT Park, Ayala, SM found",
+  "hotelPivot": {
+    "hotelId": "223183086",
+    "heroImage": "https://content.skyscnr.com/available/2505321372/2505321372_WxH.jpg",
+    "name": "CF Haven - Near IT Park, Ayala, SM",
+    "stars": 0,
+    "brandIds": [],
+    "distance": null,
+    "relevantPoiDistance": null,
+    "coordinates": [
+      123.91095,
+      10.32589
+    ],
+    "price": "P1,486",
+    "cug": {
+      "cugWithoutLabel": "Our app-only price",
+      "rawType": "apps",
+      "type": "apps",
+      "icons": [
+        "mobile"
+      ],
+      "discount": "18% off",
+      "priceWithoutDiscount": "P1,807",
+      "rawDiscountPercentage": 18
     },
-    "checkoutTime": {
-      "title": "Check out before",
-      "time": "12:00"
+    "cheapestOfferPartnerId": "h_bc",
+    "cheapestOfferRateId": null,
+    "rawPrice": 1486,
+    "rating": null,
+    "cheapestOffer": "none",
+    "offerTypes": "none",
+    "guestType": null,
+    "exclusiveDealLabel": null,
+    "pricesFrom": "1 price",
+    "images": [
+      "https://content.skyscnr.com/available/2505321372/2505321372_WxH.jpg",
+      "https://content.skyscnr.com/available/2550170185/2550170185_WxH.jpg",
+      "https://content.skyscnr.com/available/2476038759/2476038759_WxH.jpg"
+    ],
+    "otherRates": [],
+    "priceDescription": "P1,486 for 1 night",
+    "taxPolicy": "All taxes and fees included",
+    "rateFeatures": [],
+    "cheapestOfferPartnerName": "Booking.com"
+  },
+  "medianMinPrice": null,
+  "entity": {
+    "entity_type": "Hotel",
+    "entity_id": "223183086",
+    "centroid": {
+      "coordinates": [
+        123.91095,
+        10.32589
+      ],
+      "type": "Point"
     },
-    "description": {
-      "title": "Hotel description",
-      "content": "CF Haven - Near IT Park, Ayala, SM offers accommodations in Cebu City, 1.2 miles from Ayala Center Cebu and 1.7 miles from SM City Cebu. Free Wifi is provided throughout the property and private parking is available on site. Fort San Pedro is 3.",
-      "image": "https://content.skyscnr.com/available/2476038759/2476038759_WxH.jpg",
-      "translated": false,
-      "needTranslation": false,
-      "locale": "en-US"
+    "name": "CF Haven - Near IT Park, Ayala, SM",
+    "official_center": {
+      "coordinates": [
+        123.91095,
+        10.32589
+      ],
+      "type": "Point"
     },
-    "policies": {
-      "title": "Hotel policies",
-      "content": [
+    "mapping_entity_type": "Hotel",
+    "levelOfEntityType": "Hotel"
+  },
+  "location": [
+    {
+      "entity_type": "City",
+      "entity_id": "38679349",
+      "name": "Cebu"
+    },
+    {
+      "entity_type": "SecondLevelNationAdministrativeDivision",
+      "entity_id": "44301210",
+      "name": "Consolacion"
+    },
+    {
+      "entity_type": "SecondLevelNationAdministrativeDivision",
+      "entity_id": "44292637",
+      "name": "Cebu"
+    },
+    {
+      "entity_type": "Nation",
+      "entity_id": "29475324",
+      "name": "Philippines"
+    }
+  ],
+  "priceType": "per",
+  "localCurrency": "PHP",
+  "hotelsCoordinates": [
+    {
+      "longitude": 123.91095,
+      "latitude": 10.32556,
+      "hotelId": "225734132"
+    },
+    {
+      "longitude": 123.91079,
+      "latitude": 10.32642,
+      "hotelId": "223089076"
+    },
+    {
+      "longitude": 123.91172,
+      "latitude": 10.32572,
+      "hotelId": "222298806"
+    },
+    {
+      "longitude": 123.910812,
+      "latitude": 10.326688,
+      "hotelId": "212770189"
+    },
+    {
+      "longitude": 123.91081,
+      "latitude": 10.32669,
+      "hotelId": "181533126"
+    }
+  ],
+  "hotelsRegion": null,
+  "totalHotels": 162,
+  "totalHotelsFiltered": 162,
+  "pois": [
+    {
+      "coordinate": [
+        123.97889,
+        10.307222
+      ],
+      "is_extend": null,
+      "image_url": null,
+      "name": "Mactan-Cebu International",
+      "id": 95673597,
+      "type": "Transportation",
+      "sub_poi_type": "Airport"
+    },
+    {
+      "coordinate": [
+        123.9638531,
+        10.2990463
+      ],
+      "is_extend": null,
+      "image_url": null,
+      "name": "Mactan",
+      "id": 207597405,
+      "type": "Landmark",
+      "sub_poi_type": "TouristAttraction"
+    },
+    {
+      "coordinate": [
+        123.9019476969,
+        10.2935679553
+      ],
+      "is_extend": null,
+      "image_url": null,
+      "name": "Magellan's Cross",
+      "id": 206568391,
+      "type": "Landmark",
+      "sub_poi_type": "TouristAttraction"
+    },
+    {
+      "coordinate": [
+        123.9085464478,
+        10.2925682068
+      ],
+      "is_extend": null,
+      "image_url": null,
+      "name": "Cebu Pier 1",
+      "id": 210881906,
+      "type": "Transportation",
+      "sub_poi_type": "BusStation"
+    },
+    {
+      "coordinate": [
+        123.9073923,
+        10.3304499
+      ],
+      "is_extend": null,
+      "image_url": null,
+      "name": "Cebu IT Park",
+      "id": 206697301,
+      "type": "Landmark",
+      "sub_poi_type": "TouristAttraction"
+    }
+  ],
+  "discountAnalysis": {
+    "couponHotels": [],
+    "couponRanks": [],
+    "couponAmounts": [],
+    "discountPercentage": null,
+    "couponType": null,
+    "hasCugDeal": true,
+    "cugHotels": [
+      "225734132",
+      "223089076",
+      "212770189",
+      "181533126"
+    ],
+    "cugRanks": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "cugAmounts": [
+      18,
+      18,
+      75,
+      18
+    ]
+  },
+  "outBoundIndex": 0,
+  "partners": [
+    "Expedia",
+    "Booking.com",
+    "OYO",
+    "Hotels.com",
+    "Holiday Inn",
+    "Trip.com"
+  ],
+  "covidFilter": {
+    "title": "Book with peace of mind",
+    "filterOptions": [
+      {
+        "id": "free_cancellation",
+        "type": "covid",
+        "count": 9,
+        "linkageType": "cancellation",
+        "label": "Free cancellation"
+      },
+      {
+        "id": "RoomRates_option_payOnArrival",
+        "type": "covid",
+        "count": 5,
+        "linkageType": "pay_type",
+        "label": "Pay on arrival"
+      }
+    ],
+    "switcherOptions": [
+      {
+        "id": "free_cancellation",
+        "type": "covid",
+        "count": 9,
+        "linkageType": "cancellation",
+        "label": "Only show hotels with free cancellation",
+        "filterLabel": "Free cancellation"
+      }
+    ]
+  },
+  "poiFilter": {
+    "entity": null,
+    "defaultPoiItem": null,
+    "poiFilterTitle": "From where?",
+    "poiRecommendCardTitle": "Search for hotels close to",
+    "poiTypeIconMapping": {
+      "Beach": "beach",
+      "Landmark": "landmark",
+      "Entertainment": "bar",
+      "Shopping": "deals",
+      "Transportation": "cars",
+      "Education": "education"
+    },
+    "translations": {
+      "Beach": "Beach",
+      "Landmark": "Landmark",
+      "Entertainment": "Entertainment",
+      "Shopping": "Shopping",
+      "Transportation": "Transportation",
+      "Education": "Education"
+    },
+    "quickSelectOptions": [
+      {
+        "coordinate": "123.9638531,10.2990463",
+        "image_url": null,
+        "name": "Mactan",
+        "id": "207597405",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9290491,10.3215087",
+        "image_url": null,
+        "name": "Cebu Westown Lagoon",
+        "id": "223537228",
+        "type": "Entertainment",
+        "sub_poi_type": "AmusementPark",
+        "icon": "bar"
+      },
+      {
+        "coordinate": "123.9176241755,10.3112069093",
+        "image_url": null,
+        "name": "SM City Cebu",
+        "id": "207979187",
+        "type": "Shopping",
+        "sub_poi_type": "ShoppingMall",
+        "icon": "deals"
+      },
+      {
+        "coordinate": "123.97889,10.307222",
+        "image_url": null,
+        "name": "Mactan-Cebu International",
+        "id": "95673597",
+        "type": "Transportation",
+        "sub_poi_type": "Airport",
+        "icon": "cars"
+      },
+      {
+        "coordinate": "123.9092376,10.3212262",
+        "image_url": null,
+        "name": "IEC Convention Center Cebu (IC3)",
+        "id": "222845363",
+        "type": "Education",
+        "sub_poi_type": "ExhibitionCenterBuilding",
+        "icon": "education"
+      }
+    ],
+    "allOptions": [
+      {
+        "coordinate": "123.9638531,10.2990463",
+        "image_url": null,
+        "name": "Mactan",
+        "id": "207597405",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9019476969,10.2935679553",
+        "image_url": null,
+        "name": "Magellan's Cross",
+        "id": "206568391",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9073923,10.3304499",
+        "image_url": null,
+        "name": "Cebu IT Park",
+        "id": "206697301",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.4007598,9.9556609",
+        "image_url": null,
+        "name": "Moalboal Seaside",
+        "id": "218560872",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.8854366,10.3156992",
+        "image_url": null,
+        "name": "Bohol",
+        "id": "218166264",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.3919677734,9.9367790222",
+        "image_url": null,
+        "name": "Moalboal Municipal Hall",
+        "id": "210354313",
+        "type": "Landmark",
+        "sub_poi_type": "GovernmentBuilding",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9954767,10.2829461",
+        "image_url": null,
+        "name": "J park Island Resort Lobby",
+        "id": "207159270",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.3675463,9.9549406",
+        "image_url": null,
+        "name": "Moalboal Sardines Storm",
+        "id": "206679104",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.8667904,10.4067392",
+        "image_url": null,
+        "name": "Sirao Garden-Little Amsterdam",
+        "id": "222621539",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9049766,10.3255362",
+        "image_url": null,
+        "name": "Casino Filipino (operated by PAGCOR)",
+        "id": "206556232",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.8785141,10.2813762",
+        "image_url": null,
+        "name": "Cebu Ocean Park",
+        "id": "206842546",
+        "type": "Landmark",
+        "sub_poi_type": "Park",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.91813,10.31042",
+        "image_url": "https://content.skyscnr.com/POI/207371424/2088006/2088006_WxH.jpg",
+        "name": "Sugbo Mercado",
+        "id": "207371424",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.3717502,9.9745022",
+        "image_url": null,
+        "name": "South White Beach",
+        "id": "221468894",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.8982287,10.3276039",
+        "image_url": "https://content.skyscnr.com/POI/207495062/2331820/2331820_WxH.jpg",
+        "name": "Cebu City Philippines Temple",
+        "id": "207495062",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.6971421,10.2775026",
+        "image_url": null,
+        "name": "EZCamp",
+        "id": "219457766",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "124.0288085938,10.317325592",
+        "image_url": null,
+        "name": "Shangrila'S Mactan Multi-Purpose Cooperative",
+        "id": "211102054",
+        "type": "Landmark",
+        "sub_poi_type": "ModernArchitecture",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.899131,10.2914389",
+        "image_url": null,
+        "name": "Carbon Market",
+        "id": "206532022",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9968794,10.2851716",
+        "image_url": null,
+        "name": "Cebu Blue Ocean Academy",
+        "id": "207158324",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9381077,10.3229577",
+        "image_url": null,
+        "name": "Mandani Bay",
+        "id": "207164393",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9021057,10.2941085",
+        "image_url": "https://content.skyscnr.com/POI/206568396/1735894/1735894_WxH.jpg",
+        "name": "Basilica Minore del Santo Nino",
+        "id": "206568396",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9056399392,10.292470043",
+        "image_url": null,
+        "name": "Fort San Pedro",
+        "id": "206570522",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "124.0003638,10.1907431",
+        "image_url": "https://content.skyscnr.com/POI/206521709/1586229/1586229_WxH.jpg",
+        "name": "Nalusuan Island Marine Sanctuary",
+        "id": "206521709",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9323597,10.2566558",
+        "image_url": null,
+        "name": "10000 Roses Cafe & More",
+        "id": "222341983",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9614118,10.5886553",
+        "image_url": null,
+        "name": "Cebu Safari & Adventure Park",
+        "id": "220294981",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9373059,11.0712227",
+        "image_url": null,
+        "name": "Sunset Beach Resort",
+        "id": "217140180",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9983675,10.2820001",
+        "image_url": null,
+        "name": "Blue Wave Water Sports",
+        "id": "223364949",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9039637607,10.2992605857",
+        "image_url": null,
+        "name": "Yap Sandiego Ancestral House",
+        "id": "206532025",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "124.015274,10.310859",
+        "image_url": "https://content.skyscnr.com/POI/206529573/1605898/1605898_WxH.jpg",
+        "name": "Lapu-Lapu Monument",
+        "id": "206529573",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.8708714,10.3706141",
+        "image_url": null,
+        "name": "Tops Lookout",
+        "id": "206522016",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.999382019,10.4793195724",
+        "image_url": "https://content.skyscnr.com/POI/207575931/2494116/2494116_WxH.jpg",
+        "name": "Q Park",
+        "id": "207575931",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "124.3532417,10.6471856",
+        "image_url": null,
+        "name": "Pacijan Island",
+        "id": "214898389",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9717966,10.3437797",
+        "image_url": null,
+        "name": "Mangrove Eco Park at 605 Pakna-an Mandaue City",
+        "id": "215170128",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.8300916,10.3651121",
+        "image_url": null,
+        "name": "Bellissima Fattoria",
+        "id": "217238054",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.997529,10.280256",
+        "image_url": null,
+        "name": "JPark Beach side",
+        "id": "219311402",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9986166,10.2825995",
+        "image_url": null,
+        "name": "Maribago Public Beach",
+        "id": "222969442",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.895522,10.310299",
+        "image_url": "https://content.skyscnr.com/POI/207165341/1977791/1977791_WxH.jpg",
+        "name": "Mango Square Mall",
+        "id": "207165341",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.94959,10.312154",
+        "image_url": null,
+        "name": "Seahorse Houseboats",
+        "id": "206680799",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.896664,10.2970477",
+        "image_url": null,
+        "name": "University of Cebu - Main Campus",
+        "id": "206695992",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.3685503,9.9838592",
+        "image_url": null,
+        "name": "White Beach Moalboal",
+        "id": "215722365",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9710019,10.257521",
+        "image_url": null,
+        "name": "cebu beach club",
+        "id": "219527019",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.7140526,10.4940383",
+        "image_url": null,
+        "name": "Equi Frili Brium Eglisarium",
+        "id": "221189693",
+        "type": "Landmark",
+        "sub_poi_type": "TouristAttraction",
+        "icon": "landmark"
+      },
+      {
+        "coordinate": "123.9290491,10.3215087",
+        "image_url": null,
+        "name": "Cebu Westown Lagoon",
+        "id": "223537228",
+        "type": "Entertainment",
+        "sub_poi_type": "AmusementPark",
+        "icon": "bar"
+      },
+      {
+        "coordinate": "123.9199564,10.3098749",
+        "image_url": null,
+        "name": "Radisson Blu Swimming Pool",
+        "id": "221417739",
+        "type": "Entertainment",
+        "sub_poi_type": "Stadium",
+        "icon": "bar"
+      },
+      {
+        "coordinate": "123.9371327,10.32491",
+        "image_url": null,
+        "name": "BAI Hotel Pool & Bar",
+        "id": "221449197",
+        "type": "Entertainment",
+        "sub_poi_type": "Stadium",
+        "icon": "bar"
+      },
+      {
+        "coordinate": "123.97889,10.307222",
+        "image_url": null,
+        "name": "Mactan-Cebu International",
+        "id": "95673597",
+        "type": "Transportation",
+        "sub_poi_type": "Airport",
+        "icon": "cars"
+      },
+      {
+        "coordinate": "123.9085464478,10.2925682068",
+        "image_url": null,
+        "name": "Cebu Pier 1",
+        "id": "210881906",
+        "type": "Transportation",
+        "sub_poi_type": "BusStation",
+        "icon": "cars"
+      },
+      {
+        "coordinate": "123.908548,10.292568",
+        "image_url": null,
+        "name": "Oceanjet Passenger Terminal",
+        "id": "214192536",
+        "type": "Transportation",
+        "sub_poi_type": "Harbor",
+        "icon": "cars"
+      },
+      {
+        "coordinate": "123.9176241755,10.3112069093",
+        "image_url": null,
+        "name": "SM City Cebu",
+        "id": "207979187",
+        "type": "Shopping",
+        "sub_poi_type": "ShoppingMall",
+        "icon": "deals"
+      },
+      {
+        "coordinate": "123.905495,10.318332999999999",
+        "image_url": null,
+        "name": "Alaya Center",
+        "id": "207972185",
+        "type": "Shopping",
+        "sub_poi_type": "ShoppingMall",
+        "icon": "deals"
+      },
+      {
+        "coordinate": "123.881584,10.281831",
+        "image_url": null,
+        "name": "SM Seaside City",
+        "id": "208361743",
+        "type": "Shopping",
+        "sub_poi_type": "ShoppingMall",
+        "icon": "deals"
+      },
+      {
+        "coordinate": "123.9348049,10.3247753",
+        "image_url": null,
+        "name": "Parkmall",
+        "id": "217809375",
+        "type": "Shopping",
+        "sub_poi_type": "ShoppingMall",
+        "icon": "deals"
+      },
+      {
+        "coordinate": "123.9073198,10.3306811",
+        "image_url": null,
+        "name": "Ayala Malls Central Bloc",
+        "id": "217197125",
+        "type": "Shopping",
+        "sub_poi_type": "ShoppingMall",
+        "icon": "deals"
+      },
+      {
+        "coordinate": "123.9050903,10.3166426",
+        "image_url": null,
+        "name": "Rustan’s",
+        "id": "220438649",
+        "type": "Shopping",
+        "sub_poi_type": "ShoppingMall",
+        "icon": "deals"
+      },
+      {
+        "coordinate": "123.905936,10.3189195",
+        "image_url": null,
+        "name": "Ayala Terraces",
+        "id": "209508688",
+        "type": "Shopping",
+        "sub_poi_type": "ShoppingMall",
+        "icon": "deals"
+      },
+      {
+        "coordinate": "123.8000975,10.2472563",
+        "image_url": null,
+        "name": "Belmont One",
+        "id": "214489727",
+        "type": "Shopping",
+        "sub_poi_type": "ShoppingMall",
+        "icon": "deals"
+      },
+      {
+        "coordinate": "123.9630579,10.3167056",
+        "image_url": null,
+        "name": "Gaisano Mactan Island Mall",
+        "id": "215016119",
+        "type": "Shopping",
+        "sub_poi_type": "ShoppingMall",
+        "icon": "deals"
+      },
+      {
+        "coordinate": "123.8958286,10.2974397",
+        "image_url": null,
+        "name": "One Central Mall",
+        "id": "220350958",
+        "type": "Shopping",
+        "sub_poi_type": "ShoppingMall",
+        "icon": "deals"
+      },
+      {
+        "coordinate": "123.8808929,10.2718198",
+        "image_url": null,
+        "name": "Tiffany & Co.  (NUSTAR Resort & Casino)",
+        "id": "222226164",
+        "type": "Shopping",
+        "sub_poi_type": "ShoppingMall",
+        "icon": "deals"
+      },
+      {
+        "coordinate": "123.91155,10.304173",
+        "image_url": null,
+        "name": "Robinsons Galleria Cebu",
+        "id": "212284597",
+        "type": "Shopping",
+        "sub_poi_type": "ShoppingMall",
+        "icon": "deals"
+      },
+      {
+        "coordinate": "123.9183462,10.3117632",
+        "image_url": null,
+        "name": "SM City Cebu Cyberzone",
+        "id": "214585696",
+        "type": "Shopping",
+        "sub_poi_type": "ShoppingMall",
+        "icon": "deals"
+      },
+      {
+        "coordinate": "123.8815969,10.2818335",
+        "image_url": null,
+        "name": "SM Seaside Tower",
+        "id": "220366884",
+        "type": "Shopping",
+        "sub_poi_type": "ShoppingMall",
+        "icon": "deals"
+      },
+      {
+        "coordinate": "123.9092376,10.3212262",
+        "image_url": null,
+        "name": "IEC Convention Center Cebu (IC3)",
+        "id": "222845363",
+        "type": "Education",
+        "sub_poi_type": "ExhibitionCenterBuilding",
+        "icon": "education"
+      },
+      {
+        "coordinate": "123.8815391,10.2708537",
+        "image_url": null,
+        "name": "NUSTAR Convention Center Entrance",
+        "id": "219739209",
+        "type": "Education",
+        "sub_poi_type": "ExhibitionCenterBuilding",
+        "icon": "education"
+      }
+    ],
+    "clusterList": [
+      [
         {
-          "icon": "information--language-alert",
-          "translated": false,
-          "needTranslation": false,
-          "locale": "en-US",
-          "key": "ImportantNoticeFromTheHotel",
-          "type": "Important information from the hotel",
-          "values": [
-            {
-              "content": "This property does not accommodate bachelor(ette) or similar parties. Managed by a private host"
-            }
-          ]
+          "coordinate": "123.9638531,10.2990463",
+          "image_url": null,
+          "name": "Mactan",
+          "id": "207597405",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9019476969,10.2935679553",
+          "image_url": null,
+          "name": "Magellan's Cross",
+          "id": "206568391",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9073923,10.3304499",
+          "image_url": null,
+          "name": "Cebu IT Park",
+          "id": "206697301",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.4007598,9.9556609",
+          "image_url": null,
+          "name": "Moalboal Seaside",
+          "id": "218560872",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9290491,10.3215087",
+          "image_url": null,
+          "name": "Cebu Westown Lagoon",
+          "id": "223537228",
+          "type": "Entertainment",
+          "sub_poi_type": "AmusementPark",
+          "icon": "bar"
+        },
+        {
+          "coordinate": "123.9176241755,10.3112069093",
+          "image_url": null,
+          "name": "SM City Cebu",
+          "id": "207979187",
+          "type": "Shopping",
+          "sub_poi_type": "ShoppingMall",
+          "icon": "deals"
+        }
+      ],
+      [
+        {
+          "coordinate": "123.8854366,10.3156992",
+          "image_url": null,
+          "name": "Bohol",
+          "id": "218166264",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.3919677734,9.9367790222",
+          "image_url": null,
+          "name": "Moalboal Municipal Hall",
+          "id": "210354313",
+          "type": "Landmark",
+          "sub_poi_type": "GovernmentBuilding",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9954767,10.2829461",
+          "image_url": null,
+          "name": "J park Island Resort Lobby",
+          "id": "207159270",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.3675463,9.9549406",
+          "image_url": null,
+          "name": "Moalboal Sardines Storm",
+          "id": "206679104",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9199564,10.3098749",
+          "image_url": null,
+          "name": "Radisson Blu Swimming Pool",
+          "id": "221417739",
+          "type": "Entertainment",
+          "sub_poi_type": "Stadium",
+          "icon": "bar"
+        },
+        {
+          "coordinate": "123.905495,10.318332999999999",
+          "image_url": null,
+          "name": "Alaya Center",
+          "id": "207972185",
+          "type": "Shopping",
+          "sub_poi_type": "ShoppingMall",
+          "icon": "deals"
+        }
+      ],
+      [
+        {
+          "coordinate": "123.8667904,10.4067392",
+          "image_url": null,
+          "name": "Sirao Garden-Little Amsterdam",
+          "id": "222621539",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9049766,10.3255362",
+          "image_url": null,
+          "name": "Casino Filipino (operated by PAGCOR)",
+          "id": "206556232",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.8785141,10.2813762",
+          "image_url": null,
+          "name": "Cebu Ocean Park",
+          "id": "206842546",
+          "type": "Landmark",
+          "sub_poi_type": "Park",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.91813,10.31042",
+          "image_url": "https://content.skyscnr.com/POI/207371424/2088006/2088006_WxH.jpg",
+          "name": "Sugbo Mercado",
+          "id": "207371424",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9371327,10.32491",
+          "image_url": null,
+          "name": "BAI Hotel Pool & Bar",
+          "id": "221449197",
+          "type": "Entertainment",
+          "sub_poi_type": "Stadium",
+          "icon": "bar"
+        },
+        {
+          "coordinate": "123.881584,10.281831",
+          "image_url": null,
+          "name": "SM Seaside City",
+          "id": "208361743",
+          "type": "Shopping",
+          "sub_poi_type": "ShoppingMall",
+          "icon": "deals"
+        }
+      ],
+      [
+        {
+          "coordinate": "123.3717502,9.9745022",
+          "image_url": null,
+          "name": "South White Beach",
+          "id": "221468894",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.8982287,10.3276039",
+          "image_url": "https://content.skyscnr.com/POI/207495062/2331820/2331820_WxH.jpg",
+          "name": "Cebu City Philippines Temple",
+          "id": "207495062",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.6971421,10.2775026",
+          "image_url": null,
+          "name": "EZCamp",
+          "id": "219457766",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "124.0288085938,10.317325592",
+          "image_url": null,
+          "name": "Shangrila'S Mactan Multi-Purpose Cooperative",
+          "id": "211102054",
+          "type": "Landmark",
+          "sub_poi_type": "ModernArchitecture",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9348049,10.3247753",
+          "image_url": null,
+          "name": "Parkmall",
+          "id": "217809375",
+          "type": "Shopping",
+          "sub_poi_type": "ShoppingMall",
+          "icon": "deals"
+        },
+        {
+          "coordinate": "123.97889,10.307222",
+          "image_url": null,
+          "name": "Mactan-Cebu International",
+          "id": "95673597",
+          "type": "Transportation",
+          "sub_poi_type": "Airport",
+          "icon": "cars"
+        }
+      ],
+      [
+        {
+          "coordinate": "123.899131,10.2914389",
+          "image_url": null,
+          "name": "Carbon Market",
+          "id": "206532022",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9968794,10.2851716",
+          "image_url": null,
+          "name": "Cebu Blue Ocean Academy",
+          "id": "207158324",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9381077,10.3229577",
+          "image_url": null,
+          "name": "Mandani Bay",
+          "id": "207164393",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9021057,10.2941085",
+          "image_url": "https://content.skyscnr.com/POI/206568396/1735894/1735894_WxH.jpg",
+          "name": "Basilica Minore del Santo Nino",
+          "id": "206568396",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9073198,10.3306811",
+          "image_url": null,
+          "name": "Ayala Malls Central Bloc",
+          "id": "217197125",
+          "type": "Shopping",
+          "sub_poi_type": "ShoppingMall",
+          "icon": "deals"
+        },
+        {
+          "coordinate": "123.9085464478,10.2925682068",
+          "image_url": null,
+          "name": "Cebu Pier 1",
+          "id": "210881906",
+          "type": "Transportation",
+          "sub_poi_type": "BusStation",
+          "icon": "cars"
+        }
+      ],
+      [
+        {
+          "coordinate": "123.9056399392,10.292470043",
+          "image_url": null,
+          "name": "Fort San Pedro",
+          "id": "206570522",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "124.0003638,10.1907431",
+          "image_url": "https://content.skyscnr.com/POI/206521709/1586229/1586229_WxH.jpg",
+          "name": "Nalusuan Island Marine Sanctuary",
+          "id": "206521709",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9323597,10.2566558",
+          "image_url": null,
+          "name": "10000 Roses Cafe & More",
+          "id": "222341983",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9614118,10.5886553",
+          "image_url": null,
+          "name": "Cebu Safari & Adventure Park",
+          "id": "220294981",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9050903,10.3166426",
+          "image_url": null,
+          "name": "Rustan’s",
+          "id": "220438649",
+          "type": "Shopping",
+          "sub_poi_type": "ShoppingMall",
+          "icon": "deals"
+        },
+        {
+          "coordinate": "123.908548,10.292568",
+          "image_url": null,
+          "name": "Oceanjet Passenger Terminal",
+          "id": "214192536",
+          "type": "Transportation",
+          "sub_poi_type": "Harbor",
+          "icon": "cars"
+        }
+      ],
+      [
+        {
+          "coordinate": "123.9373059,11.0712227",
+          "image_url": null,
+          "name": "Sunset Beach Resort",
+          "id": "217140180",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9983675,10.2820001",
+          "image_url": null,
+          "name": "Blue Wave Water Sports",
+          "id": "223364949",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9039637607,10.2992605857",
+          "image_url": null,
+          "name": "Yap Sandiego Ancestral House",
+          "id": "206532025",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "124.015274,10.310859",
+          "image_url": "https://content.skyscnr.com/POI/206529573/1605898/1605898_WxH.jpg",
+          "name": "Lapu-Lapu Monument",
+          "id": "206529573",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.905936,10.3189195",
+          "image_url": null,
+          "name": "Ayala Terraces",
+          "id": "209508688",
+          "type": "Shopping",
+          "sub_poi_type": "ShoppingMall",
+          "icon": "deals"
+        },
+        {
+          "coordinate": "123.9092376,10.3212262",
+          "image_url": null,
+          "name": "IEC Convention Center Cebu (IC3)",
+          "id": "222845363",
+          "type": "Education",
+          "sub_poi_type": "ExhibitionCenterBuilding",
+          "icon": "education"
+        }
+      ],
+      [
+        {
+          "coordinate": "123.8708714,10.3706141",
+          "image_url": null,
+          "name": "Tops Lookout",
+          "id": "206522016",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.999382019,10.4793195724",
+          "image_url": "https://content.skyscnr.com/POI/207575931/2494116/2494116_WxH.jpg",
+          "name": "Q Park",
+          "id": "207575931",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "124.3532417,10.6471856",
+          "image_url": null,
+          "name": "Pacijan Island",
+          "id": "214898389",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9717966,10.3437797",
+          "image_url": null,
+          "name": "Mangrove Eco Park at 605 Pakna-an Mandaue City",
+          "id": "215170128",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.8000975,10.2472563",
+          "image_url": null,
+          "name": "Belmont One",
+          "id": "214489727",
+          "type": "Shopping",
+          "sub_poi_type": "ShoppingMall",
+          "icon": "deals"
+        },
+        {
+          "coordinate": "123.8815391,10.2708537",
+          "image_url": null,
+          "name": "NUSTAR Convention Center Entrance",
+          "id": "219739209",
+          "type": "Education",
+          "sub_poi_type": "ExhibitionCenterBuilding",
+          "icon": "education"
+        }
+      ],
+      [
+        {
+          "coordinate": "123.8300916,10.3651121",
+          "image_url": null,
+          "name": "Bellissima Fattoria",
+          "id": "217238054",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.997529,10.280256",
+          "image_url": null,
+          "name": "JPark Beach side",
+          "id": "219311402",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9986166,10.2825995",
+          "image_url": null,
+          "name": "Maribago Public Beach",
+          "id": "222969442",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.895522,10.310299",
+          "image_url": "https://content.skyscnr.com/POI/207165341/1977791/1977791_WxH.jpg",
+          "name": "Mango Square Mall",
+          "id": "207165341",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9630579,10.3167056",
+          "image_url": null,
+          "name": "Gaisano Mactan Island Mall",
+          "id": "215016119",
+          "type": "Shopping",
+          "sub_poi_type": "ShoppingMall",
+          "icon": "deals"
+        },
+        {
+          "coordinate": "123.94959,10.312154",
+          "image_url": null,
+          "name": "Seahorse Houseboats",
+          "id": "206680799",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        }
+      ],
+      [
+        {
+          "coordinate": "123.896664,10.2970477",
+          "image_url": null,
+          "name": "University of Cebu - Main Campus",
+          "id": "206695992",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.3685503,9.9838592",
+          "image_url": null,
+          "name": "White Beach Moalboal",
+          "id": "215722365",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.9710019,10.257521",
+          "image_url": null,
+          "name": "cebu beach club",
+          "id": "219527019",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.7140526,10.4940383",
+          "image_url": null,
+          "name": "Equi Frili Brium Eglisarium",
+          "id": "221189693",
+          "type": "Landmark",
+          "sub_poi_type": "TouristAttraction",
+          "icon": "landmark"
+        },
+        {
+          "coordinate": "123.8958286,10.2974397",
+          "image_url": null,
+          "name": "One Central Mall",
+          "id": "220350958",
+          "type": "Shopping",
+          "sub_poi_type": "ShoppingMall",
+          "icon": "deals"
+        },
+        {
+          "coordinate": "123.8808929,10.2718198",
+          "image_url": null,
+          "name": "Tiffany & Co.  (NUSTAR Resort & Casino)",
+          "id": "222226164",
+          "type": "Shopping",
+          "sub_poi_type": "ShoppingMall",
+          "icon": "deals"
+        }
+      ],
+      [
+        {
+          "coordinate": "123.91155,10.304173",
+          "image_url": null,
+          "name": "Robinsons Galleria Cebu",
+          "id": "212284597",
+          "type": "Shopping",
+          "sub_poi_type": "ShoppingMall",
+          "icon": "deals"
+        },
+        {
+          "coordinate": "123.9183462,10.3117632",
+          "image_url": null,
+          "name": "SM City Cebu Cyberzone",
+          "id": "214585696",
+          "type": "Shopping",
+          "sub_poi_type": "ShoppingMall",
+          "icon": "deals"
+        },
+        {
+          "coordinate": "123.8815969,10.2818335",
+          "image_url": null,
+          "name": "SM Seaside Tower",
+          "id": "220366884",
+          "type": "Shopping",
+          "sub_poi_type": "ShoppingMall",
+          "icon": "deals"
         }
       ]
-    }
-  },
-  "childrenAndExtraBed": {
-    "title": "Children and extra bed",
-    "content": []
-  },
-  "location": {
-    "title": "Location",
-    "shortAddress": "Grand Residences Cebu East Tower A, Cebu",
-    "address": "Grand Residences Cebu East Tower A, 6000 Cebu, Philippines",
-    "rawAddress": {
-      "city": "Cebu",
-      "postcode": "6000",
-      "nation": "Philippines",
-      "street_address": "Grand Residences Cebu East Tower A",
-      "cityId": "38679349"
-    },
-    "coordinates": {
-      "latitude": 10.32589,
-      "longitude": 123.91095
-    },
-    "cta": "Explore"
-  },
-  "gallery": {
-    "images": [
-      {
-        "category": "Bedroom",
-        "thumbnail": "https://content.skyscnr.com/available/2505321372/rmt.jpg",
-        "gallery": "https://content.skyscnr.com/available/2505321372/rmca.jpg",
-        "dynamic": "https://content.skyscnr.com/available/2505321372/2505321372_WxH.jpg"
-      },
-      {
-        "category": "Others",
-        "thumbnail": "https://content.skyscnr.com/available/2550170185/rmt.jpg",
-        "gallery": "https://content.skyscnr.com/available/2550170185/rmca.jpg",
-        "dynamic": "https://content.skyscnr.com/available/2550170185/2550170185_WxH.jpg"
-      },
-      {
-        "category": "Bedroom",
-        "thumbnail": "https://content.skyscnr.com/available/2476038759/rmt.jpg",
-        "gallery": "https://content.skyscnr.com/available/2476038759/rmca.jpg",
-        "dynamic": "https://content.skyscnr.com/available/2476038759/2476038759_WxH.jpg"
-      },
-      {
-        "category": "Others",
-        "thumbnail": "https://content.skyscnr.com/available/2560010951/rmt.jpg",
-        "gallery": "https://content.skyscnr.com/available/2560010951/rmca.jpg",
-        "dynamic": "https://content.skyscnr.com/available/2560010951/2560010951_WxH.jpg"
-      },
-      {
-        "category": "Bedroom",
-        "thumbnail": "https://content.skyscnr.com/available/2550170186/rmt.jpg",
-        "gallery": "https://content.skyscnr.com/available/2550170186/rmca.jpg",
-        "dynamic": "https://content.skyscnr.com/available/2550170186/2550170186_WxH.jpg"
-      }
     ],
-    "categories": [
-      {
-        "name": "All",
-        "count": 5,
-        "displayName": "All (5)"
-      },
-      {
-        "name": "Bedroom",
-        "count": 3,
-        "displayName": "Bedroom (3)"
-      },
-      {
-        "name": "Others",
-        "count": 2,
-        "displayName": "Highlights (2)"
-      }
-    ]
+    "QUICKSELECT_OPTIONS_LIMIT": 4
   },
-  "amenities": {
-    "title": "Amenities",
-    "ctaAll": "See all",
-    "ctaLess": "Show less",
-    "content": [
-      {
-        "icon": "bus",
-        "description": "Parking, Internet access, WiFi, WiFi, Air conditioning, Pets allowed, Garden"
-      }
-    ],
-    "contentV2": [
-      {
-        "id": "InTheRooms",
-        "category": "In the rooms",
-        "items": [
-          {
-            "id": "AirConditioning",
-            "description": "Air conditioning",
-            "icon": "aircon"
-          }
-        ]
-      },
-      {
-        "id": "PopularAndEssential",
-        "category": "Popular and essential",
-        "items": [
-          {
-            "id": "WifiService",
-            "description": "WiFi",
-            "icon": "wifi"
-          },
-          {
-            "id": "Parking",
-            "description": "Parking",
-            "icon": "parking"
-          },
-          {
-            "id": "AirConditioning",
-            "description": "Air conditioning",
-            "icon": "aircon"
-          },
-          {
-            "id": "PetsAllowedService",
-            "description": "Pets allowed",
-            "icon": "hotels--pets-allowed"
-          },
-          {
-            "id": "Garden",
-            "description": "Garden"
-          },
-          {
-            "id": "InternetAccessService",
-            "description": "Internet access",
-            "icon": "globe"
-          }
-        ]
-      },
-      {
-        "id": "HotelAndOutdoorFacilities",
-        "category": "Hotel and outdoor facilities",
-        "items": [
-          {
-            "id": "Garden",
-            "description": "Garden"
-          }
-        ]
-      },
-      {
-        "id": "WiFiAndInternet",
-        "category": "Wifi and internet",
-        "items": [
-          {
-            "id": "InternetAccessService",
-            "description": "Internet access",
-            "icon": "globe"
-          },
-          {
-            "id": "WifiService",
-            "description": "WiFi",
-            "icon": "wifi"
-          }
-        ]
-      },
-      {
-        "id": "TransportAndParking",
-        "category": "Transport and parking",
-        "items": [
-          {
-            "id": "Parking",
-            "description": "Parking",
-            "icon": "parking"
-          }
-        ]
-      },
-      {
-        "id": "ExclusiveFacilities",
-        "category": "Exclusive facilities",
-        "items": [
-          {
-            "id": "PetsAllowedService",
-            "description": "Pets allowed",
-            "icon": "hotels--pets-allowed"
-          }
-        ]
-      }
-    ]
-  },
-  "reviews": {
-    "title": "Traveler ratings",
-    "newTitle": "Hotel rating",
-    "cta": "Read reviews",
-    "summaryDescription": "Reviews by hotel guests",
-    "rating": null,
-    "ratingDescription": "rating_none",
-    "ratingDescriptionText": "No rating",
-    "numberOfReviewsLabel": "0 reviews",
-    "numberOfReviewsLabelExpanded": "Based on 0 reviews",
-    "badges": [],
-    "guests": {
-      "title": "TYPE OF GUESTS",
-      "entries": []
-    },
-    "categories": {
-      "title": "SUMMARY OF RATINGS",
-      "entries": []
-    },
-    "explanations": [
-      {
-        "title": "HOW OUR SUMMARY OF REVIEWS WORKS",
-        "content": "We analyze user reviews from dozens of travel websites and we generate a summary of all of them so that you can see at a glance the assessment made by the guests of this hotel.\nIn this way, you don't need to invest time in reading hundreds of reviews one by one to extract your own conclusions: we give them to you ready-made!"
-      },
-      {
-        "title": "TRUE REVIEWS",
-        "content": "All the analyzed reviews come from travel websites that allow reviews to be written only by those users who have made a booking and stayed at the hotel."
-      }
-    ]
-  },
-  "distance": "0.64 km from Cebu IT Park"
+  "QUICKFILTER_OFFSET": 10,
+  "QUICKFILTER_MIN_RESULTS": 10,
+  "POICARD_OFFSET": 8,
+  "POICARD_MIN_RESULTS": 14,
+  "requestId": "6a8653af-33aa-5c6c-07cf-4304f21bde07",
+  "searchByCurrentLocation": false,
+  "warningCrisis": null,
+  "correlationId": "6a8653af-33aa-5c6c-07cf-4304f21bde07"
 }

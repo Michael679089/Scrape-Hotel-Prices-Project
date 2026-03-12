@@ -235,8 +235,11 @@ def get_google_maps_stats(place_name: str):
             # Take a screenshot and save to the project root
             project_root = Path(__file__).parent
             safe_name = re.sub(r'[\\/*?:"<>|]', "_", place_name)
-            screenshot_path = project_root / f"screenshot_{safe_name}.png"
-            page.screenshot(path=str(screenshot_path), full_page=True)
+            # screenshot_path = project_root / f"screenshot_{safe_name}.png"
+            # page.screenshot(path=str(screenshot_path), full_page=True)
+
+            if isinstance(review_count, int) and review_count >= 3233361:
+                review_count = 0
 
             out = Output_Dict(
                 hotel_name=place_name,
