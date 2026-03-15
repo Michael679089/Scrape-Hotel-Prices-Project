@@ -37,13 +37,12 @@ def Login_and_Save_Google_State(browser: Any) -> bool:
     print("Once you are fully logged in, come back here and press ENTER.", file=sys.stderr)
     
     # This pauses the script so you have time to log in, do 2FA, etc.
-    input("Press ENTER here when done logging in...")
+    page.wait_for_timeout(1000 * 60)  # Wait a moment for the page to settle
 
     # Save the cookies and local storage to a file
     context.storage_state(path="google_auth.json")
     print("Login state saved to google_auth.json!", file=sys.stderr)
     
-    browser.close()
     return True
 
 def search_maps_url(name_of_hotel: str) -> dict[str, float | int]:
@@ -306,7 +305,7 @@ def search_maps_url(name_of_hotel: str) -> dict[str, float | int]:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Scrape Google Maps rating for a location.")
-    parser.add_argument("location", type=str, nargs="?", default="The Soul Center")
+    parser.add_argument("location", type=str, nargs="?", default="Vitalis White Sands")
     args = parser.parse_args()
     
     print(f"--- Starting scrape for: {args.location} ---", file=sys.stderr)
