@@ -1,0 +1,15 @@
+{
+  "name": "Hotel City Meridian",
+  "rating": "4.6",
+  "reviews": null,
+  "price": "₱718",
+  "address": "Informal hotel with a rooftop terrace",
+  "category": "Lodge",
+  "amenities": [
+    "Free Wi-Fi available",
+    "Breakfast available",
+    "Wi-Fi available",
+    "Pet-friendly available"
+  ],
+  "link": "https://www.google.com/maps/place/Hotel+City+Meridian/data=!4m10!3m9!1s0x3bae1608a1334f0b:0x908abd477b060d43!5m2!4m1!1i2!8m2!3d12.9703317!4d77.5738886!16s%2Fg%2F1thz0335!19sChIJC08zoQgWrjsRQw0Ge0e9ipA?authuser=0&hl=en&rclk=1"
+}

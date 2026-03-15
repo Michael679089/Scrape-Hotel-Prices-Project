@@ -1,0 +1,15 @@
+{
+  "name": "Hotel Palladium",
+  "rating": "4.0",
+  "reviews": "1,719",
+  "price": "₱1,971",
+  "address": "Relaxed hotel with a restaurant",
+  "category": "3-star hotel",
+  "amenities": [
+    "Free breakfast available",
+    "Free Wi-Fi available",
+    "Free parking available",
+    "Air-conditioned available"
+  ],
+  "link": "https://www.google.com/maps/place/Hotel+Palladium/data=!4m10!3m9!1s0x3bae16121b7c1d57:0xc97d94a8236e7c98!5m2!4m1!1i2!8m2!3d12.9786429!4d77.5794265!16s%2Fg%2F11c5b1d925!19sChIJVx18GxIWrjsRmHxuI6iUfck?authuser=0&hl=en&rclk=1"
+}

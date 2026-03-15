@@ -1,0 +1,15 @@
+{
+  "name": "Hotel Paramos Inn",
+  "rating": "4.4",
+  "reviews": "513",
+  "price": "₱1,618",
+  "address": "Laid-back hotel offering dining",
+  "category": "3-star hotel",
+  "amenities": [
+    "Free breakfast available",
+    "Free Wi-Fi available",
+    "Air-conditioned available",
+    "Breakfast available"
+  ],
+  "link": "https://www.google.com/maps/place/Hotel+Paramos+Inn/data=!4m10!3m9!1s0x3bae1508d6a6c945:0x21bf588ef11dd53c!5m2!4m1!1i2!8m2!3d12.916703!4d77.593904!16s%2Fg%2F11fhz9jxd6!19sChIJRcmm1ggVrjsRPNUd8Y5YvyE?authuser=0&hl=en&rclk=1"
+}

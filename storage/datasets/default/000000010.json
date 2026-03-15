@@ -1,0 +1,15 @@
+{
+  "name": "The Ritz-Carlton, Bangalore",
+  "rating": "4.6",
+  "reviews": null,
+  "price": "₱17.5K",
+  "address": "Luxury hotel with a spa & a rooftop bar",
+  "category": "5-star hotel",
+  "amenities": [
+    "Pool available",
+    "Spa available",
+    "Hot tub available",
+    "Free breakfast available"
+  ],
+  "link": "https://www.google.com/maps/place/The+Ritz-Carlton,+Bangalore/data=!4m10!3m9!1s0x3bae1678b41def33:0xfe8ae8000ba8c87f!5m2!4m1!1i2!8m2!3d12.9683498!4d77.6011114!16s%2Fg%2F1hhk8y6t0!19sChIJM-8dtHgWrjsRf8ioCwDoiv4?authuser=0&hl=en&rclk=1"
+}

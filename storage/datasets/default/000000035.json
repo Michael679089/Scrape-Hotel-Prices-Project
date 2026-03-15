@@ -1,0 +1,15 @@
+{
+  "name": "Hotel Sigma Suites",
+  "rating": "4.4",
+  "reviews": "358",
+  "price": "₱690",
+  "address": null,
+  "category": "2-star hotel",
+  "amenities": [
+    "Free Wi-Fi available",
+    "Free parking available",
+    "Air-conditioned available",
+    "Breakfast available"
+  ],
+  "link": "https://www.google.com/maps/place/Hotel+Sigma+Suites/data=!4m10!3m9!1s0x3bae17bedc0e4e93:0x72324cd66d9819d7!5m2!4m1!1i2!8m2!3d12.9799125!4d77.5759641!16s%2Fg%2F11ty79pky9!19sChIJk04O3L4XrjsR1xmYbdZMMnI?authuser=0&hl=en&rclk=1"
+}

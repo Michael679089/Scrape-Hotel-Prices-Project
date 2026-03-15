@@ -1,0 +1,16 @@
+{
+  "unique_key": "https://www.google.com/maps/search/hotels+in+bengaluru",
+  "url": "https://www.google.com/maps/search/hotels+in+bengaluru",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "user_data": {
+    "__crawlee": {
+      "state": 4
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": "2026-03-14 15:01:55.658847+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Hotel Bestend",
+  "rating": "4.1",
+  "reviews": "635",
+  "price": "₱561",
+  "address": "Unfussy budget hotel with Wi-Fi & meals",
+  "category": "2-star hotel",
+  "amenities": [
+    "Free breakfast available",
+    "Free Wi-Fi available",
+    "Air-conditioned available",
+    "Breakfast available"
+  ],
+  "link": "https://www.google.com/maps/place/Hotel+Bestend/data=!4m10!3m9!1s0x3bae15e24ae39f45:0x4f571b6a7c4b152c!5m2!4m1!1i2!8m2!3d12.963486!4d77.5771278!16s%2Fg%2F11gh6bq9hf!19sChIJRZ_jSuIVrjsRLBVLfGobV08?authuser=0&hl=en&rclk=1"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "31st South Park Hotel",
+  "rating": "3.9",
+  "reviews": "82",
+  "price": "₱830",
+  "address": null,
+  "category": "Hotel",
+  "amenities": [
+    "Air-conditioned available",
+    "Wi-Fi available"
+  ],
+  "link": "https://www.google.com/maps/place/31st+South+Park+Hotel/data=!4m10!3m9!1s0x3bae15b0cab61707:0xfa865d2994b0951!5m2!4m1!1i2!8m2!3d12.944471!4d77.5728717!16s%2Fg%2F11gxwnpcsf!19sChIJBxe2yrAVrjsRUQlLmdJlqA8?authuser=0&hl=en&rclk=1"
+}

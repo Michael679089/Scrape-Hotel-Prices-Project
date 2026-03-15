@@ -1,0 +1,15 @@
+{
+  "name": "Hotel Rajmahal",
+  "rating": "3.8",
+  "reviews": "2,052",
+  "price": "₱1,391",
+  "address": "Relaxed hotel with 2 restaurants",
+  "category": "3-star hotel",
+  "amenities": [
+    "Free breakfast available",
+    "Free Wi-Fi available",
+    "Free parking available",
+    "Air-conditioned available"
+  ],
+  "link": "https://www.google.com/maps/place/Hotel+Rajmahal/data=!4m10!3m9!1s0x3bae16107dd434a9:0x36d90bca40d49c69!5m2!4m1!1i2!8m2!3d12.9801321!4d77.5738282!16s%2Fg%2F1tdg66_d!19sChIJqTTUfRAWrjsRaZzUQMoL2TY?authuser=0&hl=en&rclk=1"
+}

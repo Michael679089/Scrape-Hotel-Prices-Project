@@ -1,0 +1,15 @@
+{
+  "name": "Hotel Geo",
+  "rating": "4.0",
+  "reviews": "1,360",
+  "price": "₱1,237",
+  "address": "Down-to-earth hotel with dining",
+  "category": "Hotel",
+  "amenities": [
+    "Free breakfast available",
+    "Free Wi-Fi available",
+    "Free parking available",
+    "Air-conditioned available"
+  ],
+  "link": "https://www.google.com/maps/place/Hotel+Geo/data=!4m10!3m9!1s0x3bae159e0daaa469:0xe9dd5585b35765e2!5m2!4m1!1i2!8m2!3d12.965675!4d77.5895688!16s%2Fg%2F11h3bg1vr6!19sChIJaaSqDZ4VrjsR4mVXs4VV3ek?authuser=0&hl=en&rclk=1"
+}

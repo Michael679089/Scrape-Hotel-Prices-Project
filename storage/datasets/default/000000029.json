@@ -1,0 +1,15 @@
+{
+  "name": "Hotel RR International",
+  "rating": "3.9",
+  "reviews": "2,006",
+  "price": "₱721",
+  "address": "Informal hotel with complimentary Wi-Fi",
+  "category": "2-star hotel",
+  "amenities": [
+    "Hot tub available",
+    "Free Wi-Fi available",
+    "Free parking available",
+    "Air-conditioned available"
+  ],
+  "link": "https://www.google.com/maps/place/Hotel+RR+International/data=!4m10!3m9!1s0x3bae161044c1baed:0xb21b851e146e37bf!5m2!4m1!1i2!8m2!3d12.9796092!4d77.5754695!16s%2Fg%2F11bz_yjx_s!19sChIJ7brBRBAWrjsRvzduFB6FG7I?authuser=0&hl=en&rclk=1"
+}

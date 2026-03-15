@@ -1,0 +1,15 @@
+{
+  "name": "The Capitol Hotel",
+  "rating": "4.0",
+  "reviews": "6,888",
+  "price": "₱2,249",
+  "address": "Upmarket hotel with a pool & dining",
+  "category": "4-star hotel",
+  "amenities": [
+    "Pool available",
+    "Free breakfast available",
+    "Free Wi-Fi available",
+    "Free parking available"
+  ],
+  "link": "https://www.google.com/maps/place/The+Capitol+Hotel/data=!4m10!3m9!1s0x3bae166f102fb1a5:0x3892796ce1881ea1!5m2!4m1!1i2!8m2!3d12.9822427!4d77.5944916!16s%2Fg%2F1tdcvk0t!19sChIJpbEvEG8WrjsRoR6I4Wx5kjg?authuser=0&hl=en&rclk=1"
+}

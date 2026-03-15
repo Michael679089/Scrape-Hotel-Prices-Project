@@ -1,0 +1,15 @@
+{
+  "name": "Hotel Sandalwood Inn",
+  "rating": "4.2",
+  "reviews": "380",
+  "price": "₱703",
+  "address": null,
+  "category": "2-star hotel",
+  "amenities": [
+    "Spa available",
+    "Free breakfast available",
+    "Free Wi-Fi available",
+    "Free parking available"
+  ],
+  "link": "https://www.google.com/maps/place/Hotel+Sandalwood+Inn/data=!4m10!3m9!1s0x3bae17a6c3ef6a8d:0x7e89d4941157e88!5m2!4m1!1i2!8m2!3d12.9762138!4d77.5782633!16s%2Fg%2F11qn62csx3!19sChIJjWrvw6YXrjsRiH4VQUmd6Ac?authuser=0&hl=en&rclk=1"
+}
